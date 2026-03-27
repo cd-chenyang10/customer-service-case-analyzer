@@ -1,0 +1,16 @@
+{
+  "name": "customer-service-case-analyzer",
+  "version": "1.0.0",
+  "description": "客服CASE归因分析工具，用于自动分析'直呼人工'CASE的异常类型",
+  "keywords": ["customer-service", "case-analysis", "asr", "ai", "kuaishou"],
+  "author": "cd-chenyang10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/customer-service-case-analyzer.git"
+  },
+  "skills": {
+    "name": "customer-service-case-analyzer",
+    "description": "客服CASE归因分析工具，用于自动分析'直呼人工'CASE的异常类型。分析ASR（语音转文本）异常和智能识别异常。输入为包含用户智能交互明细的Excel文件，输出标注到是否ASR异常、是否智能识别异常、是否无异常三列。"
+  }
+}
